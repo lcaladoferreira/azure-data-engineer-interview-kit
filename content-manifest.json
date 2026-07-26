@@ -1,0 +1,99 @@
+{
+  "sql": {
+    "books": 5,
+    "cheatsheets": 3,
+    "coding_qa": 180,
+    "theoretical_qa": 175
+  },
+  "python": {
+    "books": 5,
+    "cheatsheets": 6,
+    "numpy": 45,
+    "pandas": 75,
+    "frequent_programs": 29,
+    "basic_programs": 85,
+    "theoretical_qa": 35
+  },
+  "pyspark": {
+    "books": 1,
+    "cheatsheets": 1,
+    "coding_qa": 105,
+    "notes": 5,
+    "theoretical_qa": 160
+  },
+  "data_warehousing": {
+    "qa": 30
+  },
+  "data_modeling": {
+    "qa": 30
+  },
+  "linux": {
+    "commands": 100
+  },
+  "git": {
+    "cheatsheets": 2,
+    "qa": 65
+  },
+  "cicd": {
+    "qa": 55
+  },
+  "dsa": {
+    "problems": 54
+  },
+  "dp700": {
+    "questions": 120
+  },
+  "adf": {
+    "scenario": 55,
+    "theory": 225,
+    "notes": 5
+  },
+  "databricks": {
+    "books": 1,
+    "scenario": 85,
+    "theory": 165
+  },
+  "synapse": {
+    "scenario": 55,
+    "theory": 155
+  },
+  "adls": {
+    "scenario": 35,
+    "theory": 105
+  },
+  "fabric": {
+    "detailed": 75,
+    "scenario_concept": 120
+  },
+  "functions": {
+    "scenario": 30,
+    "theory": 35
+  },
+  "logic_apps": {
+    "scenario": 42,
+    "theory": 34
+  },
+  "stream_analytics": {
+    "scenario": 45,
+    "theory": 80
+  },
+  "blob": {
+    "scenario": 30,
+    "theory": 80
+  },
+  "cosmos": {
+    "scenario": 65,
+    "theory": 60
+  },
+  "hdinsight": {
+    "scenario": 40,
+    "theory": 45
+  },
+  "projects": {
+    "count": 20
+  },
+  "career": {
+    "resumes": 6,
+    "interview_experiences": 30
+  }
+}
